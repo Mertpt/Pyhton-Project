@@ -21,4 +21,4 @@ I did not wanted to throw away the code so i decided to make a  ai assistant app
 我没有扔掉代码，而是对其进行了评估，并将其变成了一个像好助手一样工作的应用程序。
 我不会从其他用户和其他人的项目中复制和粘贴，而且我不喜欢在我的项目中使用人工智能。
 
-*From Translate Sorry .(*
+* Chinese translation may be wrong *
